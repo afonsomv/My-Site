@@ -1,0 +1,142 @@
+/******************************* TAG SELECTORS *******************************/
+body {
+  color: #40514E;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1.6rem;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 5rem;
+  margin: 40px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 2rem;
+  margin: 0 auto 0 auto;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 1.5rem;
+}
+
+hr {
+  color: #465881;
+  border-style: dotted none none;
+  border-top-width: 8px;
+  width: 6%;
+  margin: 60px auto;
+}
+
+p {
+  line-height: 1.5;
+}
+/****************************** CLASS SELECTORS ******************************/
+.top-container {
+  background-color: #daf0e8;
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom:300px;
+}
+
+.middle-container {
+  margin: 50px auto;
+}
+.subtitle {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+}
+
+.profile-img {
+  width: 150px;
+}
+
+.my-description {
+  width: 33%;
+  margin: auto;
+}
+
+.teamwork {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.listener {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.contact-text {
+  width: 33%;
+  margin: 50px auto;
+}
+
+.btn {
+  background-color: #ffffff;
+  border-radius: 42px;
+  border: 3px solid #66bfbf;
+  display: inline-block;
+  cursor: pointer;
+  color: #66bfbf;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  padding: 15px 31px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #66bfbf;
+  color: #ffffff
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 40px 0 20px;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+.footer-link:hover {
+    color: #ffffff;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 16px;
+  padding: 10px 0;
+}
