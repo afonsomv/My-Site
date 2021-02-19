@@ -60,13 +60,14 @@ p {
 .middle-container {
   margin: 50px auto;
 }
+
 .subtitle {
   font-weight: normal;
 }
 
 .skill-row {
   width: 50%;
-  margin: 50px auto;
+  margin: 120px auto;
   text-align: left;
 }
 
