@@ -31,8 +31,9 @@ hr {
   color: #465881;
   border-style: dotted none none;
   border-top-width: 8px;
+  margin: 70px auto;
   width: 6%;
-  margin: 60px auto;
+
 }
 
 p {
@@ -67,7 +68,7 @@ p {
 
 .skill-row {
   width: 50%;
-  margin: 120px auto;
+  margin: 60px auto;
   text-align: left;
 }
 
@@ -83,13 +84,13 @@ p {
 .teamwork {
   float: left;
   margin-right: 30px;
-  width: 25%;
+  width: 190px;
 }
 
 .listener {
   float: right;
   margin-left: 30px;
-  width: 25%;
+  width: 190px;
 }
 
 .contact-text {
